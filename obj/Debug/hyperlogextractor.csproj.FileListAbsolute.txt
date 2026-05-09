@@ -1,0 +1,5 @@
+C:\Users\r2x0o\OneDrive\Desktop\hyperlogextractor\obj\Debug\hyperlogextractor.csproj.AssemblyReference.cache
+C:\Users\r2x0o\OneDrive\Desktop\hyperlogextractor\obj\Debug\hyperlogextractor.LogExtractor.resources
+C:\Users\r2x0o\OneDrive\Desktop\hyperlogextractor\obj\Debug\hyperlogextractor.Properties.Resources.resources
+C:\Users\r2x0o\OneDrive\Desktop\hyperlogextractor\obj\Debug\hyperlogextractor.csproj.GenerateResource.cache
+C:\Users\r2x0o\OneDrive\Desktop\hyperlogextractor\obj\Debug\hyperlogextractor.csproj.CoreCompileInputs.cache
